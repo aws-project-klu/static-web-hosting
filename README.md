@@ -66,3 +66,6 @@ STEP 20: wait till 2/2 status check is passed
 ![image](https://github.com/user-attachments/assets/0e5219fc-5993-4142-9210-703c01205493)
 
 
+***CONNECTING BY CLICKING CONNECT***
+For the next steps, please click on the [link](https://github.com/aws-project-klu/static-web-hosting/blob/main/clicking-connect.md)
+
