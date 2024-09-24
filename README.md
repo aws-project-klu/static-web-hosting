@@ -14,7 +14,7 @@ STEP 3: LaUNCH vpc wizard
 STEP 4: select vpc with a single public subnet
 ![image](https://github.com/user-attachments/assets/5585b344-d70e-481b-97bd-94470ab2df9f)
 
-STEP 5: Change VPC Name and create vpc
+STEP 5&6: Change VPC Name and create vpc
 ![image](https://github.com/user-attachments/assets/a3db6bf9-fe70-4cd8-a15e-2635fc57f566)
 
 STEP 7: VPC is successfully created 
