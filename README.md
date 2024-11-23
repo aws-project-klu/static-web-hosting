@@ -1,4 +1,32 @@
-# static-web-hosting
+# AWS Project - Static Web Hosting on Amazon EC2
+This project demonstrates the deployment of a static website on an Amazon EC2 Linux instance, configured with HTTPD and hosted on port 80. The project highlights the process of setting up web hosting for the KLU University website using AWS.
+
+## 🚀 Project Highlights
+- **VPC Creation:** Set up a custom Virtual Private Cloud (VPC) to manage network configurations.
+- **Instance Deployment:** Launched an Amazon EC2 Linux instance for hosting the static website.
+- **Configuration:** Configured HTTPD on the instance to enable web hosting via port 80.
+- **Secure Connection:** Connected to the instance securely using PuTTY and the AWS Management Console.
+
+## 🎯 Objective
+To demonstrate the deployment of a static website using AWS services, enabling seamless hosting and accessibility for the KLU University website.
+
+## 🛠 Technologies Used
+- **Amazon Web Services (AWS):** EC2, VPC
+- **Linux:** Server environment
+- **HTTPD:** Apache Web server configuration
+- **PuTTY:** Secure connection to EC2 instance
+
+## 🌟 Outcome
+Successfully hosted a static website for KLU University on an AWS EC2 instance, showcasing practical skills in cloud infrastructure, networking, and web hosting.
+
+**Authors:**
+- G. G. Sanjana (190030485)
+- N. S. P. Priyanka (190031190)
+
+**Department:** Computer Science and Engineering, K L University
+
+### 📂 Steps Included:
+We have included detailed step-by-step instructions with screenshots below, showcasing the process of hosting a static website on AWS EC2. One approach uses the AWS "Connect" option, while the other involves connecting to the instance via PuTTY.  
 
 Steps for static web hosting to connect kluniversity website on EC2 linux with httpd port 80
 
