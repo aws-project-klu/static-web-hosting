@@ -94,6 +94,12 @@ STEP 20: wait till 2/2 status check is passed
 ![image](https://github.com/user-attachments/assets/0e5219fc-5993-4142-9210-703c01205493)
 
 
-***CONNECTING BY CLICKING CONNECT***
-For the next steps, please click on the [link](https://github.com/aws-project-klu/static-web-hosting/blob/main/clicking-connect.md)
+## 📋 Steps Overview
+We implemented the same project in two different ways:
+
+1. **Connecting Through AWS Console**: Details the process of using the AWS "Connect" option to set up the EC2 instance and host the website.  
+   👉 [View the detailed steps here](./clicking-connect.md)
+
+2. **Connecting Through PuTTY**: Describes the process of using PuTTY to securely connect to the EC2 instance and complete the hosting setup.  
+   👉 [View the detailed steps here](./connecting-through-putty.md)
 
